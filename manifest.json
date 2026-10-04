@@ -1,1 +1,1 @@
-{"packs":["tools-batch3.json"],"remove":[]}
+{"packs": ["tools-batch2.json", "tools-batch3.json", "tools-batch4.json"], "remove": ["mortgage-monthly-payment", "personal-loan-payment"]}
